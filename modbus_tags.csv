@@ -1,0 +1,3 @@
+name,unit_id,function_code,address,data_type,scale,offset,unit,value
+ActualValue,1,3,0,float32,1,0,,0
+Setpoint,1,6,10,int16,1,0,,0
